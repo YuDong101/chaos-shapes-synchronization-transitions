@@ -1,4 +1,4 @@
-# chaos-shapes-synchronization-transitions
+# Chaos Shape Synchronization-Transitions
 Program User Guide
 1. File Structure
 Please ensure that the following three MATLAB files are located in the same folder:
