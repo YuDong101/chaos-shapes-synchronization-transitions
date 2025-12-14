@@ -50,9 +50,3 @@ Upon completion, the program will generate and display two **3D Heatmaps** in th
 * **Path Settings:** Ensure MATLAB’s "Current Folder" matches the repository location; otherwise, the script will fail to locate the function files.
 * **Numerical Precision:** The simulation step size and integration method are tuned for the system's dynamics. Increasing the step size excessively to speed up computation may lead to numerical instability or inaccurate results.
 * **Performance:** Sweeping a high-resolution parameter space ($A-T$) can be computationally intensive. For quick tests, consider reducing the resolution or the range of parameters in `main.m`.
-
-## 4. Citation
-
-If you use this code in your research, please cite our paper:
-
-> Y. Tang, Z. Cheng, X. Zhou, L. Jiang, D. Yu, and Q. Pei, "Edge of chaos shapes synchronization transitions and critical slowing down in coupled auditory neurons," *[Journal Name]*, [Year].
